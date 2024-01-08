@@ -1033,5 +1033,6 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives5/39f5c300-d854-414d-a93f-a0cfd049f55b.pdf"
+  "path": "/archives5/39f5c300-d854-414d-a93f-a0cfd049f55b.pdf",
+  "resource_type": "book"
 }
