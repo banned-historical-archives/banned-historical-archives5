@@ -1,5 +1,5 @@
 export default {
-  "entity": {
+  "entity": { 
     "id": "0aade93c-c356-46d2-9807-b567596b7e45",
     "name": "哲学笔记（人民出版社1974年版）",
     "internal": false,
